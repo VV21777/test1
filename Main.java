@@ -14,7 +14,7 @@ public class Main {
         b = 10;
         sum = a * b;
 
-        System.out.println("Блдядь! sum=" + sum);
+        System.out.println("sum=" + sum);
 
         p.kuku();
     }
